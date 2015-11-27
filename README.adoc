@@ -1,3 +1,8 @@
+I forked this project to try out HTTP 2
+
+
+----------ORIGINAL PROJECT README---------
+
 == HTTP/2 Push Demo
 
 === Instructions
@@ -19,7 +24,6 @@ $ mvn jetty:run-forked
 === JDK Dependency
 
 You need JDK 8 or greater to run this demo.
-
 This demo uses ALPN to run HTTP/2.
 
 The JDK version used to run this demo and the ALPN version 
